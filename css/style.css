@@ -1,0 +1,20 @@
+/* ?code by Silent_Coder AKA SilentxKnight */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: serif;
+}
+
+.hr{
+  height: 4px;
+  background-color:rgb(255, 188, 2);
+
+}
+#outputs{
+  background-color:rgb(21, 216, 250) ;
+}
+#outputs2{
+  color: #fff;
+  background-color:rgb(166, 21, 250) ;
+}
